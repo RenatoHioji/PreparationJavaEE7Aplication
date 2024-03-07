@@ -25,3 +25,5 @@ The Oracle Java EE 7 Application Developer exam validates programming capability
 •       Secure Java EE 7 Applications
 
 •       Use CDI Beans, concurrency API, and Batch API
+
+https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee7
